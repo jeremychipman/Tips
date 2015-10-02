@@ -5,9 +5,9 @@ This application is an exercise to complete the application to Codepath's iOS fo
 
 Time: I spent around 4 hours on the exercise itself, working alongside the tutorial video.
 
-I hope to spend time looking into some of the optional paerts of the tip calculator before the class starts, but I wanted to at least post this required portion.
+I hope to spend time looking into some of the optional parts of the tip calculator before the class starts, but I wanted to at least post this required portion.
 
-What does the app can do?
+What can the app do?
 
 Required: The user can calculate the tip, using diferent percentages, and click to close the keyboard.
 
